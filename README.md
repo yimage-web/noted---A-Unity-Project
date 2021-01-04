@@ -1,2 +1,2 @@
 # noted---A-Unity-Project
-I personal project to learn about unity and C#
+A personal project to learn about unity and C#
